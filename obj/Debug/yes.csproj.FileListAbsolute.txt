@@ -1,0 +1,31 @@
+C:\Windows\system32\obj\Debug\yes.exe
+C:\Windows\system32\obj\Debug\yes.pdb
+C:\Windows\system32\obj\Debug\yes.csprojResolveAssemblyReference.cache
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.exe
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.pdb
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\bin\Debug\bin\Debug\Microsoft Access waves.accdb
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\bin\Debug\yes.exe
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\bin\Debug\yes.pdb
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.csprojResolveAssemblyReference.cache
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.Form1.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.CITYS.frmAddUpdateCity.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.CITYS.frmMainCitys.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.COUNSELORS.frmAddUpdateCounselors.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.COUNSELORS.frmMainCounselors.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.COUNSLERSINGROUP.frmAddUpdateCounselorsInGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.COUNSLERSINGROUP.frmMainCounselorsInGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.DATESFORGROUP.frmAddUpdateDatesForGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.DATESFORGROUP.frmMainDatesForGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.FEEFORSURFER.frmAddUpdateFeeForSurfer.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.FEEFORSURFER.frmFeeForSurfer.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.frmMainTipulBenetunim.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.frmPaymantForSurfer.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.GROUPS.frmAddUpdateGroups.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.GROUPS.frmMainGroups.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.GROUPS.frmShibutzBekvutza.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.SURFERSINGROUP.frmAddUpdateSurfersInGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.SURFERSINGROUP.frmMainSurfersInGroup.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.SURFERS.frmAddUpdateSurfers.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.GUI.SURFERS.frmMainSurfers.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.Properties.Resources.resources
+M:\מחשבים\יב מגמה\אסתי לואיס\גלים של תקווה חזר מהמורה\yes\yes\obj\Debug\yes.csproj.GenerateResource.Cache
